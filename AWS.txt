@@ -1,0 +1,18 @@
+
+Migrate and test migrating significant Control-M jobs (PowerShell, OS procedures, and SQL scripts for Oracle and other databases) from Azure and AWS EC2 to AWSStep Functions, AWS Batch and Lambda
+Provision AWS infrastructure using Terraform IaC and CI/CD pipelines.
+Develop observability capability for execution monitoring.
+Collaborate with cross-functional teams to ensure seamless migration and zero-downtime deployment.
+Troubleshoot and resolve migration-related issues.
+Document migration processes and best practices.
+Requirements:
+
+Proven experience in cloud migration projects, specifically Step Functions, Batch, & Systems Manager for AWS.
+Strong knowledge in Azure and AWS.
+Proficiency in Terraform IaC, GitHub platform for source code management and git branching pattern
+Experience in GitHub Actions for CICD.
+Experience in PowerShell, SQL, etc based scheduled / cron jobs.
+Preferred Qualifications:
+
+AWS certifications (e.g., AWS Certified Solutions Architect, AWS Certified DevOps Engineer)
+ 
